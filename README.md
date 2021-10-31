@@ -15,16 +15,16 @@ Versions:
 ## Requirement 1: Project write-up UML
 
 ### Activity Diagram
-![Activity Diagram](images/activity-diagram.png)
+![Activity Diagram](images/activity-diagram.jpeg)
 
 ### Sequence Diagram
-![Sequence Diagram](images/sequence-diagram.png)
+![Sequence Diagram](images/sequence-diagram.jpeg)
 
 ### State Diagram
-![State Diagram](images/state-diagram.png)
+![State Diagram](images/state-diagram.jpeg)
 
 ### Class Diagram (Data Model)
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](images/class-diagram.jpeg)
 
 ##Project write-up - Libraries
 
